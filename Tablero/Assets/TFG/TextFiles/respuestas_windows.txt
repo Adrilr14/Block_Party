@@ -1,0 +1,64 @@
+Si
+No
+
+Colosal
+Industrial
+Educativo
+Espacial
+
+Un robot para ayudar en fábricas
+Un robot para aprender
+Un robot para ir al espacio
+Un robot para trabajar bajo el mar
+
+Un robot para aprender
+Un robot para ayudar en fábricas
+Un robot para ir al espacio
+Un robot para trabajar bajo el mar
+
+Si
+No
+
+Por los motores
+Por los sensores
+
+Verdadero
+Falso
+
+Verdadero
+Falso
+
+Sensores
+Memoria
+Procesador
+Motores
+
+Ingenieros
+Abogados
+Periodistas
+Economistas
+
+Industriales
+Futuristas
+Inteligentes
+De carreras
+
+La Inteligencia Artificial
+El diseño de los robots futuristas
+Los algoritmos
+Los materiales
+
+1927
+1987
+2004
+2015
+
+Sensores
+Motores
+Actuadores
+Controlador
+
+Actuador
+Sensores
+Controlador
+Memoria

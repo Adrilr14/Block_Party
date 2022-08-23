@@ -1,0 +1,15 @@
+¿Un robot es capaz de realizar tareas difíciles?
+¿Cuál no es un tipo de robot?
+¿Qué es un robot industrial?
+¿Qué es un robot educativo?
+¿Existen los robots submarinos?
+¿Cómo se mueven los robots?
+Los elementos del robot que recaban información del entorno son los sensores.
+Los elementos del robot que permiten mover los diferentes mecanismos del robot son los actuadores.
+¿Qué utilizan los robots para sentir el entorno?
+¿Quién construye los robots?
+Los primeros robots fueron...
+La robótica ha avanzado mucho gracias a...
+¿En qué año crees que apareció por primera vez la palabra 'robot' en una película?
+¿Cuál de estos es un elemento de entrada en un robot?
+¿Cuál de estos es un elemento de salida en un robot?
